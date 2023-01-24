@@ -6,7 +6,8 @@ public class Testing {
 		System.out.println("java");
 		System.out.println("selenium");
 		System.out.println("python");
-		
+		System.out.println("hadoop");
+
 	}
 
 }
